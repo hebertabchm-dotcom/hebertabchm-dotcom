@@ -43,7 +43,7 @@ Base de estudos e projetos práticos em **HTML5, CSS3 e JavaScript**, com foco e
 - Repositório: https://github.com/hebertabchm-dotcom/html-css  
 - Demo (GitHub Pages): https://hebertabchm-dotcom.github.io/html-css/
 
-**JavaScript**
+**JavaScript (Ainda será criado)** 
 - Repositório: https://github.com/hebertabchm-dotcom/javascript  
 - Demo (GitHub Pages): https://hebertabchm-dotcom.github.io/javascript/
 
