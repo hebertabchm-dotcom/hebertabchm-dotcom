@@ -42,8 +42,8 @@ Projetos práticos com HTML/CSS/JS: responsividade, formulários, manipulação 
 ---
 
 ## 📫 Contato
-- LinkedIn: **(coloque seu link aqui)**
-- Email: **(coloque seu email aqui)**
+- LinkedIn: **https://www.linkedin.com/in/hebert-matheus-127b551a1/**
+- Email: **hebertabc.hm@gmail.com**
 
 ---
 
