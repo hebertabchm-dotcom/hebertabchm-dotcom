@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hebert Matheus</h1>
 
-<!--
-**hebertabchm-dotcom/hebertabchm-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Front-end em desenvolvimento | Logística & Dados | Foco em soluções
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivo
+Atuar como **Front-end (Jr/Trainee)**, aplicando disciplina, visão de processos e mentalidade analítica para construir interfaces claras, responsivas e funcionais.
+
+---
+
+## 🚧 Atualmente
+- Estudando **HTML, CSS e JavaScript**
+- Praticando **DOM, eventos e lógica**
+- Criando projetos curtos e constantes para portfólio
+
+---
+
+## 🛠️ Stack
+<p>
+  <img src="https://img.shields.io/badge/HTML5-Learning-orange" />
+  <img src="https://img.shields.io/badge/CSS3-Learning-blue" />
+  <img src="https://img.shields.io/badge/JavaScript-Learning-yellow" />
+</p>
+
+---
+
+## 💼 Background (diferencial)
+Experiência em **Logística e Operações**, com rotina de indicadores, acompanhamento de processos e resolução de problemas no dia a dia.  
+Essa vivência fortaleceu meu foco em **organização, qualidade e entrega** — habilidades que levo para a área de tecnologia.
+
+---
+
+## 📂 Projetos
+🔹 **Front-end Fundamentos (em andamento)**  
+Projetos práticos com HTML/CSS/JS: responsividade, formulários, manipulação do DOM e componentes simples.
+
+➡️ *Em breve: lista organizada de repositórios e demos.*
+
+---
+
+## 📫 Contato
+- LinkedIn: **(coloque seu link aqui)**
+- Email: **(coloque seu email aqui)**
+
+---
+
+> Constância > intensidade. Evolução todos os dias.
