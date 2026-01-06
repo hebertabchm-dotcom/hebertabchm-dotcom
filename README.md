@@ -35,10 +35,18 @@ Essa vivência fortaleceu meu foco em **organização, qualidade e entrega** —
 ---
 
 ## 📂 Projetos
+
 🔹 **Front-end Fundamentos (em andamento)**  
-Base de estudos e projetos práticos em **HTML5, CSS3 e JavaScript**, com foco em estrutura, responsividade, formulários e manipulação do DOM.  
-➡️ HTML & CSS: https://github.com/hebertabchm-dotcom/html-css  
-➡️ JavaScript: https://github.com/hebertabchm-dotcom/javascript  
+Base de estudos e projetos práticos em **HTML5, CSS3 e JavaScript**, com foco em estrutura, responsividade, formulários e manipulação do DOM.
+
+**HTML & CSS**
+- Repositório: https://github.com/hebertabchm-dotcom/html-css  
+- Demo (GitHub Pages): https://hebertabchm-dotcom.github.io/html-css/
+
+**JavaScript**
+- Repositório: https://github.com/hebertabchm-dotcom/javascript  
+- Demo (GitHub Pages): https://hebertabchm-dotcom.github.io/javascript/
+
 
 🔹 **Projeto Android — Página Responsiva (exercício)**  
 Projeto focado em **HTML semântico** e **CSS responsivo**, com atenção à tipografia, layout e organização visual.  
