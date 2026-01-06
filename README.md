@@ -1,24 +1,25 @@
 <h1 align="center">Hebert Matheus</h1>
 
 <p align="center">
-Front-end em desenvolvimento | Logística & Dados | Foco em soluções
+Front-end em desenvolvimento | Background em Logística & Dados
 </p>
 
 ---
 
 ## 🎯 Objetivo
-Atuar como **Front-end (Jr/Trainee)**, aplicando disciplina, visão de processos e mentalidade analítica para construir interfaces claras, responsivas e funcionais.
+Atuar como **Front-end (Jr/Trainee)**, desenvolvendo interfaces responsivas e funcionais, com foco em clareza, usabilidade e resolução de problemas.
+
 
 ---
 
 ## 🚧 Atualmente
 - Estudando **HTML, CSS e JavaScript**
-- Praticando **DOM, eventos e lógica**
-- Criando projetos curtos e constantes para portfólio
+- Praticando **manipulação do DOM e eventos**
+- Desenvolvendo projetos curtos e frequentes para portfólio
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Stack em desenvolvimento
 <p>
   <img src="https://img.shields.io/badge/HTML5-Learning-orange" />
   <img src="https://img.shields.io/badge/CSS3-Learning-blue" />
@@ -35,9 +36,15 @@ Essa vivência fortaleceu meu foco em **organização, qualidade e entrega** —
 
 ## 📂 Projetos
 🔹 **Front-end Fundamentos (em andamento)**  
-Projetos práticos com HTML/CSS/JS: responsividade, formulários, manipulação do DOM e componentes simples.
+Base de estudos e projetos práticos em **HTML5, CSS3 e JavaScript**, com foco em estrutura, responsividade, formulários e manipulação do DOM.  
+➡️ HTML & CSS: https://github.com/hebertabchm-dotcom/html-css  
+➡️ JavaScript: https://github.com/hebertabchm-dotcom/javascript  
 
-➡️ *Em breve: lista organizada de repositórios e demos.*
+🔹 **Projeto Android — Página Responsiva (exercício)**  
+Projeto focado em **HTML semântico** e **CSS responsivo**, com atenção à tipografia, layout e organização visual.  
+➡️ https://github.com/hebertabchm-dotcom/projeto-android
+
+
 
 ---
 
