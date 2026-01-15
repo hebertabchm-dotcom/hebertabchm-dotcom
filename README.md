@@ -1,13 +1,14 @@
-Hebert Matheus
-
-Front-end Developer em Formação | Transição de Carreira de Logística & Dados
+<p align="center">
+<img src="https://github.com/hebertabchm-dotcom/hebertabchm-dotcom/blob/main/banner.png?raw=true" alt="Banner Hebert Matheus - Front-end Developer">
+</p> <h1 align="center">Hebert Matheus</h1>
+<h3 align="center">Front-end Developer em Formação | Transição de Carreira de Logística & Dados</h3>
 
 
 
 
 🎯 Objetivo Profissional
 
-Busco uma oportunidade como Desenvolvedor Front-end (Jr/Trainee) para aplicar e expandir meus conhecimentos em criação de interfaces responsivas, intuitivas e funcionais. Meu foco é desenvolver soluções que unam clareza, usabilidade e eficiência, sempre com uma abordagem orientada à resolução de problemas.
+Busco uma oportunidade como Desenvolvedor Front-end (Jr/Trainee ) para aplicar e expandir meus conhecimentos na criação de interfaces responsivas, intuitivas e funcionais. Meu foco é desenvolver soluções que unam clareza, usabilidade e eficiência, sempre com uma abordagem orientada à resolução de problemas e à experiência do usuário.
 
 
 
@@ -17,16 +18,16 @@ Busco uma oportunidade como Desenvolvedor Front-end (Jr/Trainee) para aplicar e 
 Atualmente, estou imerso no estudo e prática de:
 
 •
-HTML5: Estruturação semântica e acessível de conteúdo web.
+HTML5: Estruturação semântica e acessível de conteúdo web. 🌐
 
 •
-CSS3: Estilização e criação de layouts responsivos com foco em design system e performance.
+CSS3: Estilização e criação de layouts responsivos com foco em design system e performance. 🎨
 
 •
-JavaScript: Manipulação do DOM, lógica de programação e interatividade web.
+JavaScript: Manipulação do DOM, lógica de programação e interatividade web. 💡
 
 •
-Controle de Versão: Git e GitHub para colaboração e gestão de código.
+Controle de Versão: Git e GitHub para colaboração e gestão de código. 🐙
 
 
 
@@ -46,62 +47,43 @@ Controle de Versão: Git e GitHub para colaboração e gestão de código.
 
 💼 Background Profissional (Diferencial )
 
-Minha experiência anterior em Logística e Operações me proporcionou uma base sólida em análise de indicadores, acompanhamento de processos e resolução de problemas complexos no dia a dia. Essa vivência desenvolveu em mim um forte senso de organização, atenção aos detalhes, qualidade na entrega e pensamento analítico, habilidades que considero cruciais e que trago para o universo do desenvolvimento front-end, buscando sempre a otimização e a eficiência.
+Minha experiência anterior em Logística e Operações me proporcionou uma base sólida em análise de indicadores, acompanhamento de processos e resolução de problemas complexos no dia a dia. Essa vivência desenvolveu em mim um forte senso de organização, atenção aos detalhes, qualidade na entrega e pensamento analítico, habilidades que considero cruciais e que trago para o universo do desenvolvimento front-end, buscando sempre a otimização e a eficiência. 📈📊
 
 
 
 
 📂 Projetos Desenvolvidos
 
-🔹 Portfolio Pessoal
-
-Um projeto em desenvolvimento que serve como vitrine para meus trabalhos e habilidades em Front-end. Construído com HTML, CSS e JavaScript, demonstra minha capacidade de criar interfaces modernas e responsivas.
-
-•
-Repositório: https://github.com/hebertabchm-dotcom/portfolio
-
-•
-Demo: (Ainda não disponível, mas será adicionado aqui)
-
-🔹 Formulário de Teste Notion + N8N
-
-Um formulário simples desenvolvido em HTML para testar a integração com o Notion e N8N, focado na coleta e automação de dados. Este projeto destaca a capacidade de criar interfaces funcionais para automação de fluxos de trabalho.
-
-•
-Repositório: https://github.com/hebertabchm-dotcom/formulario-teste-notion
-
-•
-Demo: (Ainda não disponível, mas será adicionado aqui)
-
-🔹 Front-end Fundamentos (em andamento)
-
+Projeto
+Descrição
+Tecnologias
+Repositório
+Demo
+Portfolio Pessoal
+Vitrine para meus trabalhos e habilidades em Front-end, demonstrando minha capacidade de criar interfaces modernas e responsivas.
+HTML, CSS, JavaScript
+Link
+Em breve
+Formulário de Teste Notion + N8N
+Formulário simples em HTML para testar a integração com Notion e N8N, focado na coleta e automação de dados.
+HTML
+Link
+Em breve
+Front-end Fundamentos
 Base de estudos e projetos práticos em HTML5, CSS3 e JavaScript, com foco em estrutura, responsividade, formulários e manipulação do DOM.
-
+HTML5, CSS3, JavaScript
 HTML & CSS
-
-•
-Repositório: https://github.com/hebertabchm-dotcom/html-css
-
-•
-Demo (GitHub Pages): https://hebertabchm-dotcom.github.io/html-css/
-
-JavaScript (Ainda será criado)
-
-•
-Repositório: https://github.com/hebertabchm-dotcom/javascript
-
-•
-Demo (GitHub Pages): (Ainda não disponível, mas será adicionado aqui)
-
-🔹 Projeto Android — Página Responsiva (exercício)
-
+JavaScript
+HTML & CSS
+Em breve
+Projeto Android — Página Responsiva
 Projeto focado em HTML semântico e CSS responsivo, com atenção à tipografia, layout e organização visual.
+HTML, CSS
+Link
+Em breve
 
-•
-Repositório: https://github.com/hebertabchm-dotcom/projeto-android
 
-•
-Demo: (Ainda não disponível, mas será adicionado aqui)
+
 
 
 
@@ -118,5 +100,5 @@ Email: hebertabc.hm@gmail.com
 
 
 
-"Constância > intensidade. Evolução todos os dias."
+"Constância > intensidade. Evolução todos os dias." ✨
 
