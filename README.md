@@ -1,37 +1,32 @@
-
- <h1 align="center">Hebert Matheus</h1>
-<h3 align="center">Front-end Developer em Formação | Transição de Carreira de Logística & Dados</h3>
-
-
-
-
-🎯 Objetivo Profissional
-
-Busco uma oportunidade como Desenvolvedor Front-end (Jr/Trainee ) para aplicar e expandir meus conhecimentos na criação de interfaces responsivas, intuitivas e funcionais. Meu foco é desenvolver soluções que unam clareza, usabilidade e eficiência, sempre com uma abordagem orientada à resolução de problemas e à experiência do usuário.
+<h1 align="center">Hebert Matheus</h1> <p align="center">
+Front-end em desenvolvimento | Background em Logística & Dados
+</p>
 
 
 
 
-🚀 Conhecimentos Atuais & Em Desenvolvimento
+🎯 Objetivo
 
-Atualmente, estou imerso no estudo e prática de:
+Atuar como Front-end (Jr/Trainee), desenvolvendo interfaces responsivas e funcionais, com foco em clareza, usabilidade e resolução de problemas.
+
+
+
+
+🚧 Atualmente
 
 •
-HTML5: Estruturação semântica e acessível de conteúdo web. 🌐
+Estudando HTML, CSS e JavaScript
 
 •
-CSS3: Estilização e criação de layouts responsivos com foco em design system e performance. 🎨
+Praticando manipulação do DOM e eventos
 
 •
-JavaScript: Manipulação do DOM, lógica de programação e interatividade web. 💡
-
-•
-Controle de Versão: Git e GitHub para colaboração e gestão de código. 🐙
+Desenvolvendo projetos curtos e frequentes para portfólio
 
 
 
 
-🛠️ Minha Stack (Em Evolução)
+🛠️ Stack em desenvolvimento
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -44,45 +39,65 @@ Controle de Versão: Git e GitHub para colaboração e gestão de código. 🐙
 
 
 
-💼 Background Profissional (Diferencial )
+💼 Background (diferencial )
 
-Minha experiência anterior em Logística e Operações me proporcionou uma base sólida em análise de indicadores, acompanhamento de processos e resolução de problemas complexos no dia a dia. Essa vivência desenvolveu em mim um forte senso de organização, atenção aos detalhes, qualidade na entrega e pensamento analítico, habilidades que considero cruciais e que trago para o universo do desenvolvimento front-end, buscando sempre a otimização e a eficiência. 📈📊
+Experiência em Logística e Operações, com rotina de indicadores, acompanhamento de processos e resolução de problemas no dia a dia.
+Essa vivência fortaleceu meu foco em organização, qualidade e entrega — habilidades que levo para a área de tecnologia.
 
 
 
 
-📂 Projetos Desenvolvidos
+📂 Projetos
 
-Projeto
-Descrição
-Tecnologias
-Repositório
-Demo
-Portfolio Pessoal
-Vitrine para meus trabalhos e habilidades em Front-end, demonstrando minha capacidade de criar interfaces modernas e responsivas.
-HTML, CSS, JavaScript
-Link
-Em breve
-Formulário de Teste Notion + N8N
-Formulário simples em HTML para testar a integração com Notion e N8N, focado na coleta e automação de dados.
-HTML
-Link
-Em breve
-Front-end Fundamentos
+🔹 Portfolio Pessoal
+
+Um projeto em desenvolvimento que serve como vitrine para meus trabalhos e habilidades em Front-end. Construído com HTML, CSS e JavaScript, demonstra minha capacidade de criar interfaces modernas e responsivas.
+
+•
+Repositório: https://github.com/hebertabchm-dotcom/portfolio
+
+•
+Demo: https://hebertabchm-dotcom.github.io/portfolio/
+
+🔹 Formulário de Teste Notion + N8N
+
+Um formulário simples desenvolvido em HTML para testar a integração com o Notion e N8N, focado na coleta e automação de dados. Este projeto destaca a capacidade de criar interfaces funcionais para automação de fluxos de trabalho.
+
+•
+Repositório: https://github.com/hebertabchm-dotcom/formulario-teste-notion
+
+•
+Demo: https://hebertabchm-dotcom.github.io/formulario-teste-notion/
+
+🔹 Front-end Fundamentos (em andamento)
+
 Base de estudos e projetos práticos em HTML5, CSS3 e JavaScript, com foco em estrutura, responsividade, formulários e manipulação do DOM.
-HTML5, CSS3, JavaScript
+
 HTML & CSS
-JavaScript
-HTML & CSS
-Em breve
-Projeto Android — Página Responsiva
+
+•
+Repositório: https://github.com/hebertabchm-dotcom/html-css
+
+•
+Demo (GitHub Pages): https://hebertabchm-dotcom.github.io/html-css/
+
+JavaScript (Ainda será criado)
+
+•
+Repositório: https://github.com/hebertabchm-dotcom/javascript
+
+•
+Demo (GitHub Pages): https://hebertabchm-dotcom.github.io/javascript/
+
+🔹 Projeto Android — Página Responsiva (exercício)
+
 Projeto focado em HTML semântico e CSS responsivo, com atenção à tipografia, layout e organização visual.
-HTML, CSS
-Link
-Em breve
 
+•
+Repositório: https://github.com/hebertabchm-dotcom/projeto-android
 
-
+•
+Demo: https://hebertabchm-dotcom.github.io/projeto-android/
 
 
 
@@ -99,5 +114,5 @@ Email: hebertabc.hm@gmail.com
 
 
 
-"Constância > intensidade. Evolução todos os dias." ✨
+Constância > intensidade. Evolução todos os dias.
 
