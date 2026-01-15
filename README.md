@@ -1,6 +1,5 @@
-<p align="center">
-<img src="https://github.com/hebertabchm-dotcom/hebertabchm-dotcom/blob/main/banner.png?raw=true" alt="Banner Hebert Matheus - Front-end Developer">
-</p> <h1 align="center">Hebert Matheus</h1>
+<p align="center"
+ <h1 align="center">Hebert Matheus</h1></p>
 <h3 align="center">Front-end Developer em Formação | Transição de Carreira de Logística & Dados</h3>
 
 
